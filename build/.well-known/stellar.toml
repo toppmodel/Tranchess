@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCM62DZDTVJR6MZAP6OGGCPT4IWVZNNVARHWJXIRP3ZS2FCCIK7NAOL2"
+"GAJSZCIF6YHVOQOYMAPFHHDYAP334ID77YOLRPLBB3D2OOLXRQ7EVG4P"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="TROYTrade"
-ORG_URL="https://troytrade.com/"
-ORG_DESCRIPTION="Redefine trading beyond exchange moving to a smart hybrid assets management platform."
-ORG_TWITTER="@troytrade"
-ORG_LOGO="https://i.ibb.co/PDBK7bj/TROY.png"
-ORG_OFFICIAL_EMAIL="support@troytrade.com"
+ORG_NAME="ETN-Network"
+ORG_URL="https://electroneum.com/"
+ORG_DESCRIPTION="A cryptocurrency with huge, genuine usage via our real-world ecosystem."
+ORG_TWITTER="@electroneum"
+ORG_LOGO="https://i.ibb.co/YpvD4yF/electroneum.png"
+ORG_OFFICIAL_EMAIL="support@electroneum.com"
 
 
 [[CURRENCIES]]
-code="TROY"
-issuer="GCM62DZDTVJR6MZAP6OGGCPT4IWVZNNVARHWJXIRP3ZS2FCCIK7NAOL2"
+code="ETN"
+issuer="GAJSZCIF6YHVOQOYMAPFHHDYAP334ID77YOLRPLBB3D2OOLXRQ7EVG4P"
 anchor_asset="false"
-name="TROY"
-desc="TROY is an upgrade that aims to propel the project to become a smart hybrid asset management platform that is driven by its strong adherence to inclusivity, profitability, security and urge to serve."
+name="Electroneum"
+desc="Electroneum is a unique, award-winning project focused on empowering a greater number of people by providing them with the tools they need to earn a living from the digital economy."
 conditions=""
-image="https://i.ibb.co/PDBK7bj/TROY.png"
-fixed_number=10000000
-max_number=10000000
+image="https://i.ibb.co/YpvD4yF/electroneum.png"
+fixed_number=1500000
+max_number=1500000
 is_unlimited=false
-#TROY was issued using the open and inclusive Stellar blockchain network.
+#Electroneum was issued using the open and inclusive Stellar blockchain network.
