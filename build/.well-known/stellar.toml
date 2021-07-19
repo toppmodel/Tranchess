@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAJSZCIF6YHVOQOYMAPFHHDYAP334ID77YOLRPLBB3D2OOLXRQ7EVG4P"
+"GCMRTZWL3I3VDMBYYI7EKJJQ6I3CJ2G2YRVAR3F54EOXSLYHPQ7VCEMI"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="ETN-Network"
-ORG_URL="https://electroneum.com/"
-ORG_DESCRIPTION="A cryptocurrency with huge, genuine usage via our real-world ecosystem."
-ORG_TWITTER="@electroneum"
-ORG_LOGO="https://i.ibb.co/YpvD4yF/electroneum.png"
-ORG_OFFICIAL_EMAIL="support@electroneum.com"
+ORG_NAME="Stellar Classic"
+ORG_URL="https://stellar-classics.com/"
+ORG_DESCRIPTION="The Next Generation One-stop Crypto Ecosystem"
+ORG_TWITTER="@stellarclassic"
+ORG_LOGO="https://i.ibb.co/n15WB3C/xlmx.png"
+ORG_OFFICIAL_EMAIL="support@xlmx.com"
 
 
 [[CURRENCIES]]
-code="ETN"
-issuer="GAJSZCIF6YHVOQOYMAPFHHDYAP334ID77YOLRPLBB3D2OOLXRQ7EVG4P"
+code="XLMX"
+issuer="GCMRTZWL3I3VDMBYYI7EKJJQ6I3CJ2G2YRVAR3F54EOXSLYHPQ7VCEMI"
 anchor_asset="false"
-name="Electroneum"
-desc="Electroneum is a unique, award-winning project focused on empowering a greater number of people by providing them with the tools they need to earn a living from the digital economy."
+name="Stellar Classic"
+desc="Stellar Classic Ecosystem is a modern age freelance marketplace created with the aim to resolve issues faced by traditional freelance industry and enable seamless, risk-free connectivity between free-lancers and buyers at minimal costs."
 conditions=""
-image="https://i.ibb.co/YpvD4yF/electroneum.png"
-fixed_number=1500000
-max_number=1500000
+image="https://i.ibb.co/n15WB3C/xlmx.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#Electroneum was issued using the open and inclusive Stellar blockchain network.
+#Stellar Classic was issued using the open and inclusive Stellar blockchain network.
