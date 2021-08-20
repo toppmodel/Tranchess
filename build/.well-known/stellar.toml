@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+"GD5NWOSUYD2456NMXUD7NOQVOI2N5TJXST6XQOTDKVIL5UMYM2SKTXBU"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Mishka Token"
-ORG_URL="https://mishkatoken.com/"
-ORG_DESCRIPTION="MISHKA is 100% decentralized and is run by our community of Inu Killers."
-ORG_TWITTER="@MishkaToken"
-ORG_LOGO="https://i.ibb.co/HdCL6hv/mishka.png"
-ORG_OFFICIAL_EMAIL="contact@mishka.com"
+ORG_NAME="tranchess"
+ORG_URL="https://tranchess.com/"
+ORG_DESCRIPTION="tranchess is 100% decentralized and is run by our community of Inu Killers."
+ORG_TWITTER="tranchess"
+ORG_LOGO="https://i.ibb.co/ncQ9Y2B/coin.png"
+ORG_OFFICIAL_EMAIL="contact@tranchess.com"
 
 
 [[CURRENCIES]]
-code="MISHKA"
-issuer="GCXCNVMBLXGUOIVYTCRBHFCTE3M4XN7P4JSUBCNQLMGZSPY4POQFNFD5"
+code="Tranchess"
+issuer="GD5NWOSUYD2456NMXUD7NOQVOI2N5TJXST6XQOTDKVIL5UMYM2SKTXBU"
 anchor_asset="false"
-name="Mishka Token"
-desc="Mishka Token is a (mostly) friendly, community-focused ERC-20 cryptocurrency with a taste for competition. Mishka Token stops harmful automated bot traders from selling or transferring their $MISHKA, forever locking their Ethereum into the ecosystem. We call this technology HoneyBot, pioneered by FTP Anti Bot."
+name="Tranchess"
+desc="Tranchess is A tokenized asset management and derivatives trading protocol. Tranchess provides a different risk/return matrix out of a single main fund that tracks a specific underlying asset. The name Tranchess was inspired by the game of chess, as well as the French word “Tranche”, which is often associated with tranche funds that caters to different class of investors with varying risk appetite. Tranchess was launched on 24th June 2021."
 conditions=""
-image="https://i.ibb.co/HdCL6hv/mishka.png"
+image="https://i.ibb.co/ncQ9Y2B/coin.png"
 fixed_number=2000000
 max_number=2000000
 is_unlimited=false
-#Mishka Token was issued using the open and inclusive Stellar blockchain network.
+#Tranchess was issued using the open and inclusive Stellar blockchain network.
